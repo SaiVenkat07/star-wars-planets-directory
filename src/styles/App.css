@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+  }
+  
+  .planets-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .planet-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    max-width: 300px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .resident-link {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  

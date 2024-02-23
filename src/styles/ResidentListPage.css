@@ -1,0 +1,25 @@
+.resident-list-page {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .resident-list-page h2 {
+    margin-bottom: 20px;
+  }
+  
+  .resident-list-page ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .resident-list-page li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .resident-list-page li p {
+    margin: 5px 0;
+  }
+  
